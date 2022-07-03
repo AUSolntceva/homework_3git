@@ -19,6 +19,7 @@
 
 Ниже пример кода из нашего приложения:
 
-# code
-
-![](C:\Users\solnt\ДЗ Python\NeuroStartUp\code.css)
+'''.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
