@@ -19,3 +19,6 @@
 
 Ниже пример кода из нашего приложения:
 
+# code
+
+![](C:\Users\solnt\ДЗ Python\NeuroStartUp\code.css)
